@@ -1,2 +1,2 @@
 # HopfieldNetwork
-Hopfield network as a associative memory to store binary images
+Hopfield network as an associative memory to store binary images
